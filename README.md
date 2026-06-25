@@ -84,6 +84,41 @@ Related Files:
 
 ---
 
+### Pandas & Data Analysis
+
+A comprehensive understanding of data manipulation using Pandas, focusing on structured tabular data handling, data cleaning, transformation, aggregation, and real-world dataset analysis for data science and machine learning applications.
+
+**Core areas covered:** 
+- Pandas Series and DataFrame structures (1D and 2D labeled data)
+- Data importing and exporting (CSV, JSON, Excel formats)
+- Indexing and slicing using .loc (label-based) and .iloc (position-based)
+- Filtering and conditional selection using boolean masks
+- Data aggregation and statistical analysis (mean, sum, min, max, count)
+- Grouping and summarizing data using groupby()
+- Data exploration techniques (value_counts, unique, nunique, sample)
+- Data reshaping and modification (adding columns, renaming, concatenation)
+- Advanced column operations (apply, map, lambda functions)
+- Index management (set_index, reset_index)
+- Sorting data by values and index
+- Handling missing data (NaN processing, dropna, fillna)
+- Data cleaning techniques (duplicates, replace, type conversion, string normalization)
+- String processing using .str accessor methods
+- Views vs copies and safe data manipulation (.copy())
+- Broadcasting operations for efficient column-wise computation
+- Joining and merging datasets (concat, merge with SQL-style joins)
+- Pivot tables and correlation analysis for statistical insights
+- Data type inspection and selection (dtypes, select_dtypes)
+- Random sampling and dataset inspection for exploratory analysis
+- Efficient data export after transformation
+
+Related File:
+- `pandas/employees.csv`
+- `pandas/employees.json`
+- `pandas/pandas_practice.md`
+- `pandas/pandas_summary.md`
+
+---
+
 ### Python Programming
 Foundational knowledge in Python programming, including syntax, logic building, and problem-solving.
 
