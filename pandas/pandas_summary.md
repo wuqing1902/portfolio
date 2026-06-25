@@ -8,6 +8,27 @@ Pandas is a powerful Python library built on top of NumPy and is widely used for
 
 
 
+## Data Importing and Exporting
+
+Pandas supports reading and writing data from multiple formats:
+
+- CSV: `pd.read_csv()`
+- JSON: `pd.read_json()`
+- Excel: `pd.read_excel()`
+
+During import, users can:
+
+- Set index column using index_col
+- Convert data formats automatically (e.g., strings to datetime using pd.to_datetime())
+
+Exporting data is also supported for saving processed datasets.
+
+<br><br><br>
+
+
+
+
+
 ## Creating Data in Pandas (Series and DataFrame)
 
 Pandas provides two core data structures: Series and DataFrame.
@@ -117,6 +138,39 @@ Example:
 
 
 
+## Data Exploration and Understanding (NEW SECTION)
+
+Pandas provides tools to understand the structure and distribution of data before analysis.
+
+- `value_counts()` → counts frequency of each category
+- `unique()` → returns all unique values in a column
+- `nunique()` → returns number of unique values
+- `sample()` → randomly selects rows from the dataset
+
+These functions are commonly used in Exploratory Data Analysis (EDA).
+
+<br><br><br>
+
+
+
+
+
+
+## Pivot Tables and Correlation Analysis
+
+Pandas supports advanced analytical summaries:
+
+pivot_table() → creates Excel-style summary tables
+corr() → calculates correlation between numerical variables
+
+These are widely used in data science for pattern discovery and relationship analysis.
+
+<br><br><br>
+
+
+
+
+
 
 ## Reshaping and Modifying Data
 
@@ -135,9 +189,54 @@ These operations make it easy to reshape and evolve datasets during analysis.
 
 
 
+## Advanced Column Operations
+
+Pandas provides powerful tools for transforming data:
+
+- `apply()` → applies custom functions to columns or rows
+- `map()` → replaces values using a mapping dictionary
+
+These functions are widely used for data transformation and feature engineering.
+
+<br><br><br>
+
+
+
+
+
+## Index Management
+
+Pandas allows full control over DataFrame indexing:
+
+- `set_index()` → sets a column as the index
+- `reset_index()` → restores default numeric index
+
+This is important when working with structured or hierarchical datasets.
+
+<br><br><br>
+
+
+
+
+
+
 ## Views vs Copies (Data Modification Behavior)
 
 In Pandas, operations may return either a view or a copy of the original data. A view reflects changes in the original DataFrame, while a copy is independent. This distinction is important when modifying filtered or sliced data, as unintended changes may occur if working with views instead of explicit copies.
+
+<br><br><br>
+
+
+
+
+
+## Data Copy Safety
+
+When modifying datasets, it is important to avoid unintended changes:
+
+- `.copy()` → creates an independent copy of a DataFrame
+
+This prevents accidental modification of the original dataset during analysis.
 
 <br><br><br>
 
@@ -190,6 +289,53 @@ Fixing Data Issues:
 
 
 
+## Sorting Data
+
+Pandas allows sorting data to organize or rank values.
+
+- `sort_values()` → sorts data by column values
+- `sort_index()` → sorts data by index labels
+
+Sorting is useful for ranking data such as salaries, scores, or performance metrics.
+
+<br><br><br>
+
+
+
+
+
+## Data Types and Column Selection
+
+Understanding data types is essential for correct analysis:
+
+- `dtypes` → shows data types of each column
+- `select_dtypes()` → selects columns by type (numeric, object, etc.)
+
+These tools help separate numerical and categorical data for analysis.
+
+<br><br><br>
+
+
+
+
+
+## String Processing in Pandas
+
+Pandas provides vectorized string operations for text data:
+
+- `.str.upper() / .str.lower()` → standardize text case
+- `.str.contains()` → checks if text contains a pattern
+
+These are important for cleaning and analyzing categorical or text data.
+
+<br><br><br>
+
+
+
+
+
+
+
 ## Joins and Merging Data
 
 Pandas supports combining datasets using different methods:
@@ -204,28 +350,6 @@ Supports:
 - right join
 
 These operations are essential when working with multiple datasets.
-
-<br><br><br>
-
-
-
-
-
-
-## Data Importing and Exporting
-
-Pandas supports reading and writing data from multiple formats:
-
--   CSV: `pd.read_csv()`
-- JSON: `pd.read_json()`
-- Excel: `pd.read_excel()`
-
-During import, users can:
-
-- Set index column using index_col
-- Convert data formats automatically (e.g., strings to datetime using pd.to_datetime())
-
-Exporting data is also supported for saving processed datasets.
 
 <br><br><br>
 
