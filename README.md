@@ -48,8 +48,8 @@ A comprehensive understanding of numerical computing using NumPy, focusing on ar
 - Efficient array concatenation and sorting
 
 Related File:
-- `numpy/summary.md`
-- `numpy/numpy.pdf`
+- `numpy/numpy_practice.md`
+- `numpy/numpy_summary.md`
 
 
 <!--
