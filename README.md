@@ -33,6 +33,27 @@ Related Files:
 ---
 
 ### NumPy & Scientific Computing
+A comprehensive understanding of numerical computing using NumPy, focusing on array manipulation, vectorized operations, broadcasting, and efficient data processing for scientific applications.
+
+**Core areas covered:**
+- NumPy array creation and structure (1D, 2D, multi-dimensional arrays)
+- Indexing, slicing, and memory views vs copies
+- Vectorized mathematical operations and universal functions (ufuncs)
+- Broadcasting rules and cross-dimensional computation
+- Data reshaping, flattening, and transformation
+- Statistical and aggregation functions for data analysis
+- Conditional filtering and data selection techniques
+- Handling missing data (NaN processing)
+- Random number generation and simulation
+- Efficient array concatenation and sorting
+
+Related File:
+- `numpy/summary.md`
+- `numpy/numpy.pdf`
+
+
+<!--
+### NumPy & Scientific Computing
 Core numerical computing skills using NumPy for efficient array operations and mathematical computations.
 
 **Topics include:**
@@ -44,6 +65,7 @@ Core numerical computing skills using NumPy for efficient array operations and m
 
 Related Files:
 - `numpy_summary.md`
+-->
 
 ---
 
