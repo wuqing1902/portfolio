@@ -32,6 +32,34 @@ Related Files:
 
 ---
 
+### Matplotlib & Data Visualization
+
+A comprehensive understanding of data visualization using Matplotlib, focusing on plot creation, customization, multi-plot layouts, and effective visual communication for data analysis and scientific applications.
+
+Matplotlib is a foundational Python library that transforms numerical data into meaningful visual representations such as line plots, bar charts, scatter plots, histograms, and dashboards. It is widely used in data science, machine learning, and scientific research to interpret patterns and relationships in data.
+
+**Core areas covered:**
+- Basic plotting structure and workflow (data visualization fundamentals)
+- Line plots for trend analysis and time-series visualization
+- Scatter plots for relationship, correlation, and outlier analysis
+- Bar charts for categorical comparison and ranking
+- Pie charts for proportional and percentage-based visualization
+- Histograms for frequency distribution and data exploration
+- Plot customization (markers, colors, line styles, and formatting)
+- Labels, titles, legends, and annotations for plot readability
+- Grid lines, axis ticks, and plot formatting
+Subplots and dashboard-style multi-plot layouts
+- Figure and Axes management using the object-oriented approach
+- NumPy and Pandas integration for real-world dataset visualization
+- Built-in styling and themes for professional presentation
+- Saving and exporting visualizations for reports and portfolios
+
+Related File:
+- `matplotlib/matplotlib_practice.ipynb`
+- `matplotlib/matplotlib_summary.md`
+
+---
+
 ### NumPy & Scientific Computing
 A comprehensive understanding of numerical computing using NumPy, focusing on array manipulation, vectorized operations, broadcasting, and efficient data processing for scientific applications.
 
@@ -48,7 +76,7 @@ A comprehensive understanding of numerical computing using NumPy, focusing on ar
 - Efficient array concatenation and sorting
 
 Related File:
-- `numpy/numpy_practice.md`
+- `numpy/numpy_practice.ipynb`
 - `numpy/numpy_summary.md`
 
 
@@ -114,7 +142,7 @@ A comprehensive understanding of data manipulation using Pandas, focusing on str
 Related File:
 - `pandas/employees.csv`
 - `pandas/employees.json`
-- `pandas/pandas_practice.md`
+- `pandas/pandas_practice.ipynb`
 - `pandas/pandas_summary.md`
 
 ---
