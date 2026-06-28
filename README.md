@@ -147,6 +147,45 @@ Related File:
 
 ---
 
+## Python Programming
+
+A comprehensive study of Python programming fundamentals, object-oriented programming, file handling, algorithms, and data structures, focusing on writing clean, maintainable, and efficient code for real-world software development.
+
+Python is a versatile, high-level programming language widely used in software engineering, automation, cybersecurity, data science, artificial intelligence, and scientific computing. Throughout this learning portfolio, emphasis was placed on developing strong programming fundamentals, understanding computational thinking, and applying best practices to solve practical programming problems.
+
+Core areas covered:
+- Python syntax, variables, comments, input/output, and naming conventions
+- Built-in data types (Integer, Float, Boolean, String, List, Tuple, Dictionary, Set, Range, and None)
+- String manipulation, formatting, slicing, and common string methods
+- Numeric operations, mathematical functions, and augmented assignment operators
+- Functions, parameters, return values, variable scope, and built-in functions
+- Conditional statements, comparison operators, logical operators, and program control flow
+- Truthy/Falsy evaluation and Boolean logic
+- Lists, tuples, dictionaries, and sets with common methods and practical usage
+- Looping techniques using `for`, `while`, `range()`, `enumerate()`, `zip()`, and list comprehensions
+- Lambda expressions and functional programming utilities (`map()`, `filter()`, and `sum()`)
+- Python modules, import statements, execution control, and the Python Standard Library
+- File handling, including reading, writing, appending, and managing text files
+- Error handling, debugging techniques, exception management, and custom exceptions
+- Object-Oriented Programming (OOP), including classes, objects, methods, constructors, encapsulation, inheritance, polymorphism, abstraction, and abstract base classes
+- Algorithm analysis using Big O notation, time complexity, and space complexity
+- Problem-solving methodologies, pseudocode development, and edge-case analysis
+- Fundamental data structures, including arrays, linked lists, stacks, queues, hash maps, trees, graphs, heaps, priority queues, and tries
+- Searching and sorting algorithms, including Linear Search, Binary Search, and Merge Sort
+- Graph traversal techniques using Breadth-First Search (BFS) and Depth-First Search (DFS)
+- Dynamic Programming concepts, including overlapping subproblems, optimal substructure, memoization, and tabulation
+- Python coding best practices, modular programming, documentation, readability, and maintainable software design
+
+Related Files:
+- `python/python.ipynb`
+- `python/python_lab.md`
+- `python/python_project.md`
+- `python/python_summary.md`
+
+
+<!--
+---
+
 ### Python Programming
 Foundational knowledge in Python programming, including syntax, logic building, and problem-solving.
 
@@ -159,6 +198,7 @@ Foundational knowledge in Python programming, including syntax, logic building, 
 
 Related Files:
 - `python_basics_summary.md`
+-->
 
 ---
 
