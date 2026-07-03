@@ -17,18 +17,135 @@ My goal is to build a strong interdisciplinary foundation that connects:
 ---
 
 ## Learning Domains
-### Cybersecurity Fundamentals
-Introduction to cybersecurity principles, risks, and protection mechanisms in digital systems.
+### Cybersecurity 
+#### Cisco
+A comprehensive understanding of cybersecurity fundamentals using the Cisco Networking Academy curriculum, focusing on cyber threats, network security, system protection, data privacy, ethical security practices, and defensive techniques for modern computing environments.
 
-**Topics include:**
-- Network security principles
-- Encryption basics
-- Threats and vulnerabilities
-- Risk assessment
-- Secure system design
+Cisco Cybersecurity provides a strong foundation in identifying, preventing, and responding to cybersecurity threats. It covers essential security concepts ranging from malware analysis and network protection to encryption, authentication, vulnerability management, and secure computing practices for individuals and organizations.
 
-Related Files:
-- `cybersecurity_summary.md`
+**Core areas covered:**
+- Cybersecurity fundamentals and the CIA Triad (Confidentiality, Integrity, Availability)
+- Personal data protection and digital identity management
+- Common cyber threats, attackers, and social engineering techniques
+- Malware classification (viruses, worms, Trojans, ransomware, spyware, rootkits, backdoors, and scareware)
+- Cyber attacks including phishing, DoS, DDoS, password attacks, and Advanced Persistent Threats (APTs)
+- System vulnerabilities, secure configuration, and patch management
+- Network security fundamentals including firewalls, VPNs, wireless security, and secure communication
+- Encryption, hashing, salting, and authentication mechanisms
+- Backup strategies, data protection, and secure data disposal
+- Security awareness, privacy, and responsible online practices
+- Organizational security policies, incident response, and risk management
+- Cybersecurity ethics, legal considerations, and career development
+
+Related File:
+- `cybersecurity/cisco_cybersecurity.md`
+- `cybersecurity/cisco_cybersecurity_summary.md`
+
+#### Google
+A comprehensive understanding of defensive cybersecurity operations using the Google Cybersecurity Professional Certificate, focusing on security operations, governance, network security, incident response, threat detection, Linux, SQL, Python automation, and security analysis.
+
+The Google Cybersecurity curriculum emphasizes practical security analyst skills by combining theoretical knowledge with hands-on exercises. It covers modern security operations, risk management frameworks, digital investigations, automation, and the tools commonly used in Security Operations Centers (SOCs).
+
+**Core areas covered:**
+- Cybersecurity foundations and security analyst responsibilities
+- Security governance, compliance, and risk management frameworks (NIST, ISO, CISSP domains)
+- Threat actors, attack methodologies, and social engineering
+- Security controls, Identity and Access Management (IAM), and least privilege
+- Network architecture, TCP/IP, cloud networking, and network hardening
+- Security monitoring using SIEM platforms and log analysis
+- Incident detection, investigation, containment, eradication, and recovery
+- Security playbooks, digital forensics, and evidence handling
+- Linux command-line operations for cybersecurity
+- SQL for security log querying and investigation
+- Python automation for cybersecurity tasks
+- Vulnerability assessment, threat modeling, and defensive security practices
+
+Related File:
+- `cybersecurity/google_cybersecurity.md`
+- `cybersecurity/google_cybersecurity_lab.md`
+- `cybersecurity/google_cybersecurity_lab_summary.md`
+- `cybersecurity/google_cybersecurity_project.md`
+- `cybersecurity/google_cybersecurity_project_summary.md`
+- `cybersecurity/google_cybersecurity_summary.md`
+
+#### Overthewire
+##### Bandit (Linux Fundamentals)
+A comprehensive understanding of Linux command-line fundamentals through the OverTheWire Bandit wargame, focusing on filesystem navigation, shell commands, permissions, text processing, scripting, networking, and practical problem-solving for cybersecurity.
+
+**Core areas covered:**
+- Linux filesystem navigation and directory management
+- File discovery, manipulation, and inspection
+- Standard input, output, and shell redirection
+- Hidden files, special filenames, and wildcard expansion
+- File permissions and ownership
+- Text processing (grep, sort, uniq, cut, strings)
+- File searching using find
+- Compression and archive utilities (gzip, bzip2, tar, xxd, base64)
+- SSH authentication and key management
+- Networking fundamentals (nc, sockets, ports)
+- Bash scripting fundamentals
+- Linux troubleshooting and command-line problem solving
+
+Related File:
+- `cybersecurity/overthewire/bandit.md`
+
+##### Natas (Web Security Fundamentals)
+A comprehensive understanding of web application security through the OverTheWire Natas wargame, focusing on web vulnerabilities, HTTP communication, authentication mechanisms, source code analysis, input validation, and practical exploitation techniques for secure web development.
+
+**Core areas covered:**
+- HTTP requests and responses
+- Browser Developer Tools
+- HTML source code inspection
+- Authentication bypass
+- Cookies and session management
+- SQL Injection (SQLi)
+- Command Injection
+- Local File Inclusion (LFI)
+- Remote File Inclusion (RFI)
+- Cross-Site Scripting (XSS)
+- File upload vulnerabilities
+- PHP source code analysis
+- Directory traversal
+- Input validation weaknesses
+- Secure coding awareness
+
+Related File:
+- `cybersecurity/overthewire/natas.md`
+
+##### Leviathan (Reverse Engineering Fundamentals)
+A comprehensive understanding of Linux privilege escalation and binary exploitation through the OverTheWire Leviathan wargame, focusing on file permissions, SUID binaries, reverse engineering, system analysis, and practical problem-solving for secure system administration.
+
+**Core areas covered:**
+- Linux privilege escalation
+- SUID binaries
+- Binary analysis
+- Reverse engineering basics
+- Symbolic links
+- strings
+- ltrace
+- Process execution
+- File permissions
+- Security misconfigurations
+
+Related File:
+- `cybersecurity/overthewire/leviathan.md`
+
+##### Krypton (Cryptography Fundamentals)
+A comprehensive understanding of classical cryptography and cryptanalysis through the OverTheWire Krypton wargame, focusing on encryption algorithms, cipher analysis, frequency analysis, cryptographic weaknesses, and practical techniques for secure communication.
+
+**Core areas covered:**
+- Classical cryptography
+- Caesar cipher
+- ROT13
+- Vigenère cipher
+- Frequency analysis
+- Cryptanalysis techniques
+- Stream cipher concepts
+- Encryption and decryption workflow
+- Cipher weaknesses
+
+Related File:
+- `cybersecurity/overthewire/krypton.md`
 
 ---
 
