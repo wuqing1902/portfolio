@@ -1,9 +1,9 @@
 ## Table of Contents
-- [Module 1: Introduction to Cybersecurity](##module-1-introduction-to-cybersecurity)
-- [Module 2: Attacks, Concepts and Techniques](##module-2-attacks-concepts-and-techniques)
-- [Module 3: Protecting Your Data and Privacy](##module-3-protecting-your-data-and-privacy)
-- [Module 4: Protecting the Organization](##module-4-protecting-the-organization)
-- [Module 5: Cybersecurity Ethics, Law & Career Development](##module-5-cybersecurity-ethics-law--career-development)
+- [Module 1: Introduction to Cybersecurity](#module-1-introduction-to-cybersecurity)
+- [Module 2: Attacks, Concepts and Techniques](#module-2-attacks-concepts-and-techniques)
+- [Module 3: Protecting Your Data and Privacy](#module-3-protecting-your-data-and-privacy)
+- [Module 4: Protecting the Organization](#module-4-protecting-the-organization)
+- [Module 5: Cybersecurity Ethics, Law & Career Development](#module-5-cybersecurity-ethics-law--career-development)
 
 <br><br><br><br><br>
 
