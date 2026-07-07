@@ -1,7 +1,10 @@
 # Learning Portfolio
 
-This repository documents my continuous learning journey across multiple domains in technology, including programming, data science, networking, cybersecurity, and computational biology. It serves as a structured collection of notes, summaries, and hands-on projects developed through self-learning and coursework.
+This repository documents my continuous learning journey across multiple domains in technology, including programming, data science, networking, and cybersecurity. It serves as a structured collection of notes, summaries, and hands-on projects developed through self-learning and coursework.
 
+<!--
+, and computational biology
+-->
 ---
 
 ## About This Portfolio
@@ -149,7 +152,8 @@ Related File:
 
 ---
 
-### Matplotlib & Data Visualization
+### Python
+#### Matplotlib & Data Visualization
 
 A comprehensive understanding of data visualization using Matplotlib, focusing on plot creation, customization, multi-plot layouts, and effective visual communication for data analysis and scientific applications.
 
@@ -175,9 +179,7 @@ Related File:
 - `matplotlib/matplotlib_practice.ipynb`
 - `matplotlib/matplotlib_summary.md`
 
----
-
-### NumPy & Scientific Computing
+#### NumPy & Scientific Computing
 A comprehensive understanding of numerical computing using NumPy, focusing on array manipulation, vectorized operations, broadcasting, and efficient data processing for scientific applications.
 
 **Core areas covered:**
@@ -196,40 +198,7 @@ Related File:
 - `numpy/numpy_practice.ipynb`
 - `numpy/numpy_summary.md`
 
-
-<!--
-### NumPy & Scientific Computing
-Core numerical computing skills using NumPy for efficient array operations and mathematical computations.
-
-**Topics include:**
-- Multi-dimensional arrays
-- Vectorized operations
-- Broadcasting
-- Statistical functions
-- Matrix operations
-
-Related Files:
-- `numpy_summary.md`
--->
-
----
-
-### Networking & IoT Fundamentals
-Understanding of network systems, communication protocols, and IoT concepts through theoretical and practical exercises.
-
-**Topics include:**
-- Network architecture & protocols
-- IoT device communication
-- Packet Tracer simulations
-- Wireless networking concepts
-- Network security basics
-
-Related Files:
-- `networking_iot_summary.md`
-
----
-
-### Pandas & Data Analysis
+#### Pandas & Data Analysis
 
 A comprehensive understanding of data manipulation using Pandas, focusing on structured tabular data handling, data cleaning, transformation, aggregation, and real-world dataset analysis for data science and machine learning applications.
 
@@ -262,9 +231,7 @@ Related File:
 - `pandas/pandas_practice.ipynb`
 - `pandas/pandas_summary.md`
 
----
-
-## Python Programming
+#### Python Programming
 
 A comprehensive study of Python programming fundamentals, object-oriented programming, file handling, algorithms, and data structures, focusing on writing clean, maintainable, and efficient code for real-world software development.
 
@@ -299,26 +266,38 @@ Related Files:
 - `python/python_project.md`
 - `python/python_summary.md`
 
-
 <!--
----
-
-### Python Programming
-Foundational knowledge in Python programming, including syntax, logic building, and problem-solving.
+### NumPy & Scientific Computing
+Core numerical computing skills using NumPy for efficient array operations and mathematical computations.
 
 **Topics include:**
-- Python basics (variables, loops, functions)
-- Data structures (lists, dictionaries, tuples)
-- File handling
-- Error handling
-- Modular programming
+- Multi-dimensional arrays
+- Vectorized operations
+- Broadcasting
+- Statistical functions
+- Matrix operations
 
 Related Files:
-- `python_basics_summary.md`
+- `numpy_summary.md`
 -->
 
----
+<!--
+### Networking & IoT Fundamentals
+Understanding of network systems, communication protocols, and IoT concepts through theoretical and practical exercises.
 
+**Topics include:**
+- Network architecture & protocols
+- IoT device communication
+- Packet Tracer simulations
+- Wireless networking concepts
+- Network security basics
+
+Related Files:
+- `networking_iot_summary.md`
+
+-->
+
+<!--
 ### Future Focus: Bioinformatics & Machine Learning
 Planned and ongoing exploration into computational biology and machine learning applications.
 
@@ -332,14 +311,18 @@ Related Files:
 - `bioinformatics_learning_plan.md`
 
 ---
+--> 
 
 ## Tools & Technologies
 - Python 
 - NumPy
 - Git & GitHub
 - Microsoft Excel
-- Packet Tracer
 - Jupyter Notebook (planned/optional)
+
+<!--
+- Packet Tracer
+-->
 
 ---
 
