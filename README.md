@@ -153,86 +153,7 @@ Related File:
 ---
 
 ### Python
-#### Matplotlib & Data Visualization
-
-A comprehensive understanding of data visualization using Matplotlib, focusing on plot creation, customization, multi-plot layouts, and effective visual communication for data analysis and scientific applications.
-
-Matplotlib is a foundational Python library that transforms numerical data into meaningful visual representations such as line plots, bar charts, scatter plots, histograms, and dashboards. It is widely used in data science, machine learning, and scientific research to interpret patterns and relationships in data.
-
-**Core areas covered:**
-- Basic plotting structure and workflow (data visualization fundamentals)
-- Line plots for trend analysis and time-series visualization
-- Scatter plots for relationship, correlation, and outlier analysis
-- Bar charts for categorical comparison and ranking
-- Pie charts for proportional and percentage-based visualization
-- Histograms for frequency distribution and data exploration
-- Plot customization (markers, colors, line styles, and formatting)
-- Labels, titles, legends, and annotations for plot readability
-- Grid lines, axis ticks, and plot formatting
-Subplots and dashboard-style multi-plot layouts
-- Figure and Axes management using the object-oriented approach
-- NumPy and Pandas integration for real-world dataset visualization
-- Built-in styling and themes for professional presentation
-- Saving and exporting visualizations for reports and portfolios
-
-Related File:
-- `matplotlib/matplotlib_practice.ipynb`
-- `matplotlib/matplotlib_summary.md`
-
-#### NumPy & Scientific Computing
-A comprehensive understanding of numerical computing using NumPy, focusing on array manipulation, vectorized operations, broadcasting, and efficient data processing for scientific applications.
-
-**Core areas covered:**
-- NumPy array creation and structure (1D, 2D, multi-dimensional arrays)
-- Indexing, slicing, and memory views vs copies
-- Vectorized mathematical operations and universal functions (ufuncs)
-- Broadcasting rules and cross-dimensional computation
-- Data reshaping, flattening, and transformation
-- Statistical and aggregation functions for data analysis
-- Conditional filtering and data selection techniques
-- Handling missing data (NaN processing)
-- Random number generation and simulation
-- Efficient array concatenation and sorting
-
-Related File:
-- `numpy/numpy_practice.ipynb`
-- `numpy/numpy_summary.md`
-
-#### Pandas & Data Analysis
-
-A comprehensive understanding of data manipulation using Pandas, focusing on structured tabular data handling, data cleaning, transformation, aggregation, and real-world dataset analysis for data science and machine learning applications.
-
-**Core areas covered:** 
-- Pandas Series and DataFrame structures (1D and 2D labeled data)
-- Data importing and exporting (CSV, JSON, Excel formats)
-- Indexing and slicing using .loc (label-based) and .iloc (position-based)
-- Filtering and conditional selection using boolean masks
-- Data aggregation and statistical analysis (mean, sum, min, max, count)
-- Grouping and summarizing data using groupby()
-- Data exploration techniques (value_counts, unique, nunique, sample)
-- Data reshaping and modification (adding columns, renaming, concatenation)
-- Advanced column operations (apply, map, lambda functions)
-- Index management (set_index, reset_index)
-- Sorting data by values and index
-- Handling missing data (NaN processing, dropna, fillna)
-- Data cleaning techniques (duplicates, replace, type conversion, string normalization)
-- String processing using .str accessor methods
-- Views vs copies and safe data manipulation (.copy())
-- Broadcasting operations for efficient column-wise computation
-- Joining and merging datasets (concat, merge with SQL-style joins)
-- Pivot tables and correlation analysis for statistical insights
-- Data type inspection and selection (dtypes, select_dtypes)
-- Random sampling and dataset inspection for exploratory analysis
-- Efficient data export after transformation
-
-Related File:
-- `pandas/employees.csv`
-- `pandas/employees.json`
-- `pandas/pandas_practice.ipynb`
-- `pandas/pandas_summary.md`
-
 #### Python Programming
-
 A comprehensive study of Python programming fundamentals, object-oriented programming, file handling, algorithms, and data structures, focusing on writing clean, maintainable, and efficient code for real-world software development.
 
 Python is a versatile, high-level programming language widely used in software engineering, automation, cybersecurity, data science, artificial intelligence, and scientific computing. Throughout this learning portfolio, emphasis was placed on developing strong programming fundamentals, understanding computational thinking, and applying best practices to solve practical programming problems.
@@ -266,20 +187,83 @@ Related Files:
 - `python/python_project.md`
 - `python/python_summary.md`
 
-<!--
-### NumPy & Scientific Computing
-Core numerical computing skills using NumPy for efficient array operations and mathematical computations.
 
-**Topics include:**
-- Multi-dimensional arrays
-- Vectorized operations
-- Broadcasting
-- Statistical functions
-- Matrix operations
+#### Matplotlib & Data Visualization
+A comprehensive understanding of data visualization using Matplotlib, focusing on plot creation, customization, multi-plot layouts, and effective visual communication for data analysis and scientific applications.
 
-Related Files:
-- `numpy_summary.md`
--->
+Matplotlib is a foundational Python library that transforms numerical data into meaningful visual representations such as line plots, bar charts, scatter plots, histograms, and dashboards. It is widely used in data science, machine learning, and scientific research to interpret patterns and relationships in data.
+
+**Core areas covered:**
+- Basic plotting structure and workflow (data visualization fundamentals)
+- Line plots for trend analysis and time-series visualization
+- Scatter plots for relationship, correlation, and outlier analysis
+- Bar charts for categorical comparison and ranking
+- Pie charts for proportional and percentage-based visualization
+- Histograms for frequency distribution and data exploration
+- Plot customization (markers, colors, line styles, and formatting)
+- Labels, titles, legends, and annotations for plot readability
+- Grid lines, axis ticks, and plot formatting
+Subplots and dashboard-style multi-plot layouts
+- Figure and Axes management using the object-oriented approach
+- NumPy and Pandas integration for real-world dataset visualization
+- Built-in styling and themes for professional presentation
+- Saving and exporting visualizations for reports and portfolios
+
+Related File:
+- `python/matplotlib/matplotlib_practice.ipynb`
+- `python/matplotlib/matplotlib_summary.md`
+
+#### NumPy & Scientific Computing
+A comprehensive understanding of numerical computing using NumPy, focusing on array manipulation, vectorized operations, broadcasting, and efficient data processing for scientific applications.
+
+**Core areas covered:**
+- NumPy array creation and structure (1D, 2D, multi-dimensional arrays)
+- Indexing, slicing, and memory views vs copies
+- Vectorized mathematical operations and universal functions (ufuncs)
+- Broadcasting rules and cross-dimensional computation
+- Data reshaping, flattening, and transformation
+- Statistical and aggregation functions for data analysis
+- Conditional filtering and data selection techniques
+- Handling missing data (NaN processing)
+- Random number generation and simulation
+- Efficient array concatenation and sorting
+
+Related File:
+- `python/numpy/numpy_practice.ipynb`
+- `python/numpy/numpy_summary.md`
+
+#### Pandas & Data Analysis
+A comprehensive understanding of data manipulation using Pandas, focusing on structured tabular data handling, data cleaning, transformation, aggregation, and real-world dataset analysis for data science and machine learning applications.
+
+**Core areas covered:** 
+- Pandas Series and DataFrame structures (1D and 2D labeled data)
+- Data importing and exporting (CSV, JSON, Excel formats)
+- Indexing and slicing using .loc (label-based) and .iloc (position-based)
+- Filtering and conditional selection using boolean masks
+- Data aggregation and statistical analysis (mean, sum, min, max, count)
+- Grouping and summarizing data using groupby()
+- Data exploration techniques (value_counts, unique, nunique, sample)
+- Data reshaping and modification (adding columns, renaming, concatenation)
+- Advanced column operations (apply, map, lambda functions)
+- Index management (set_index, reset_index)
+- Sorting data by values and index
+- Handling missing data (NaN processing, dropna, fillna)
+- Data cleaning techniques (duplicates, replace, type conversion, string normalization)
+- String processing using .str accessor methods
+- Views vs copies and safe data manipulation (.copy())
+- Broadcasting operations for efficient column-wise computation
+- Joining and merging datasets (concat, merge with SQL-style joins)
+- Pivot tables and correlation analysis for statistical insights
+- Data type inspection and selection (dtypes, select_dtypes)
+- Random sampling and dataset inspection for exploratory analysis
+- Efficient data export after transformation
+
+Related File:
+- `python/pandas/employees.csv`
+- `python/pandas/employees.json`
+- `python/pandas/pandas_practice.ipynb`
+- `python/pandas/pandas_summary.md`
+
 
 <!--
 ### Networking & IoT Fundamentals
