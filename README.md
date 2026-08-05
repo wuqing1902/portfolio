@@ -1,6 +1,6 @@
-# Learning Portfolio
+# Portfolio
 
-This repository documents my continuous learning journey across multiple domains in technology, including programming, data science, networking, and cybersecurity. It serves as a structured collection of notes, summaries, and hands-on projects developed through self-learning and coursework.
+This repository documents my continuous journey across multiple domains in technology, including programming, data science, networking, and cybersecurity. It serves as a structured collection of notes, summaries, and hands-on projects developed through self-learning and coursework.
 
 <!--
 , and computational biology
@@ -13,9 +13,8 @@ This portfolio is designed to track my progress in building technical skills acr
 
 My goal is to build a strong interdisciplinary foundation that connects:
 - Programming (Python)
-- Data Analysis & Scientific Computing
+- Data Analysis & Artificial Intelligence
 - Networking & Cybersecurity
-- Future Bioinformatics & Machine Learning Applications
 
 ---
 
