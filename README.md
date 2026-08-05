@@ -12,9 +12,10 @@ This repository documents my continuous journey across multiple domains in techn
 This portfolio is designed to track my progress in building technical skills across different areas of computing and data science. Each section represents a specific domain of learning, containing summaries, exercises, and practical implementations.
 
 My goal is to build a strong interdisciplinary foundation that connects:
-- Programming (Python)
+- Programming
 - Data Analysis & Artificial Intelligence
 - Networking & Cybersecurity
+- Scientific Computing 
 
 ---
 
