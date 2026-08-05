@@ -300,8 +300,7 @@ Related Files:
 ## Tools & Technologies
 - Python 
 - NumPy
-- Git & GitHub
-- Microsoft Excel
+- GitHub
 - Jupyter Notebook (planned/optional)
 
 <!--
