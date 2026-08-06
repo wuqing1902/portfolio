@@ -27,7 +27,7 @@ Welcome to my comprehensive learning portfolio! This repository showcases my jou
 ## 📈 Learning Journey
 [Brief description of your learning path]
 
-
+```
 portfolio/
 ├── README.md                    # Main landing page
 ├── .gitignore
@@ -102,3 +102,4 @@ portfolio/
     └── projects/
         ├── README.md
         └── python_project.ipynb
+```
