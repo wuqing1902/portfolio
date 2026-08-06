@@ -70,13 +70,19 @@ google-cybersecurity/
 ## Repository Navigation
 ### [Theory](/cybersecurity/google/theory.md)
 
+The theory section contains structured notes summarizing the core concepts covered throughout the Google Cybersecurity Professional Certificate. The topics include cybersecurity fundamentals, the CIA triad, risk management, identity and access management (IAM), network security, Linux security, SQL for security analysis, Security Information and Event Management (SIEM), incident response, threat modeling, vulnerability management, and Python automation.
+
 ### [Labs](/cybersecurity/google/labs)
 
-The laboratory exercises focus on building practical cybersecurity skills through guided scenarios, hands-on investigations, and tool usage.
+The labs section contains hands-on exercises completed throughout the course, focusing on applying cybersecurity concepts within simulated enterprise environments. Each lab emphasizes practical skills using industry-standard tools, security frameworks, and investigation techniques commonly performed by Security Operations Center (SOC) analysts.
+
+These activities include network traffic analysis, Linux system administration, SQL investigations, asset management, threat modeling, incident response, SIEM operations, IDS rule development, and Python-based security automation.
 
 ### [Projects](/cybersecurity/google/projects)
 
-The projects integrate multiple cybersecurity concepts into realistic security scenarios and demonstrate practical problem-solving skills.
+The projects section showcases larger scenario-based assignments that integrate multiple cybersecurity concepts into realistic security investigations and operational workflows. Each project demonstrates the application of technical knowledge to solve practical security problems while following established industry frameworks and best practices.
+
+Project topics include SQL-based incident investigations, Linux access control, vulnerability and risk assessment, ransomware incident response, and Python automation for security operations. Together, these projects demonstrate practical experience in security analysis, documentation, automation, and defensive cybersecurity techniques.
 
 <br><br><br>
 
