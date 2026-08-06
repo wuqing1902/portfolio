@@ -24,7 +24,7 @@ The primary goals of this section are to:
 
 ## Topics Covered
 
-### [Python Fundamentals](/fundamentals)
+### [Python Fundamentals](/python/fundamentals)
 
 - Python Syntax and Core Concepts
 - Variables and Data Types
@@ -36,7 +36,7 @@ The primary goals of this section are to:
 - Algorithms and Problem Solving
 - Data Structures
 
-### [NumPy](/numpy)
+### [NumPy](/python/numpy)
 
 - Array Fundamentals
 - Array Manipulation
@@ -45,7 +45,7 @@ The primary goals of this section are to:
 - Statistical Computing
 - Data Processing
 
-### [Pandas](/pandas)
+### [Pandas](/python/pandas)
 
 - Data Structures
 - Data Import and Export
@@ -55,7 +55,7 @@ The primary goals of this section are to:
 - Data Analysis
 - Data Integration
 
-### [Matplotlib](/matplotlib)
+### [Matplotlib](/python/matplotlib)
 
 - Data Visualization Fundamentals
 - Common Chart Types
