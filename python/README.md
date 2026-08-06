@@ -80,9 +80,9 @@ python/
 │
 ├── fundamentals/
 │   ├── python-fundamentals.ipynb      ← Complete tutorial notebook
-│   ├── python-summary.md              ← Theory summary
 │   ├── python-labs.ipynb              ← Labs
-│   └── python-projects.ipynb          ← Projects
+│   ├── python-projects.ipynb          ← Projects
+|   └── python-summary.md              ← Theory summary
 │
 ├── numpy/
 │   ├── practice.ipynb
