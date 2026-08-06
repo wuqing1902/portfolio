@@ -41,7 +41,7 @@ This repository contains 17 cybersecurity labs completed as part of a structured
 
 ## Lab Summaries
 
-### [Lab 1: Internal IT Audit Documentation – Botium Toys](/cybersecurity)
+### [Lab 1: Internal IT Audit Documentation – Botium Toys](/cybersecurity/google/labs/Lab 1: Internal IT Audit Documentation – Botium Toys.md)
 - **Framework:** NIST CSF
 - **Skills:** Risk scoring, gap analysis, compliance mapping (PCI DSS, GDPR, SOC)
 - **Scenario:** Audited a toy company's security posture, identified missing controls, recommended fixes
