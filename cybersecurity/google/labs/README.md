@@ -3,19 +3,41 @@
 **Total Labs:** 17  
 **Primary Focus:** Incident Response, Network Security, SIEM, NIST CSF, Python Automation
 
----
+<br><br><br>
 
+## About This Lab Collection
 
-## How to Use This Document
+This repository contains 17 cybersecurity labs completed as part of a structured hands-on training program. Each lab simulates real-world scenarios — from internal audits and network attacks to SIEM investigations and Python automation. This is one component of a broader cybersecurity portfolio.
 
-This summary provides a high-level overview of each lab for quick reference. For detailed lab reports, including commands, code, and full analysis, navigate to `lab.md` within this folder.
+<br><br><br>
 
-Each lab entry includes:
-- Focus area and primary framework/tools
-- Key security skills demonstrated
-- Real-world scenario simulated
+**Key skills demonstrated:**
 
----
+- Network traffic analysis (Wireshark, tcpdump)
+- Incident response and threat hunting
+- SIEM querying (Splunk, Wazuh, Chronicle)
+- NIST CSF and risk assessment frameworks
+- Python scripting for security automation
+- IDS rule writing (Suricata)
+- Asset classification and access control
+
+<br><br><br>
+
+## Tools and Technologies
+
+| Category | Tools |
+|----------|-------|
+| Network Analysis | Wireshark, tcpdump, Suricata |
+| IDS/IPS | Suricata |
+| SIEM | Splunk, Wazuh, Google Chronicle |
+| Operating Systems | Linux (Bash), Windows |
+| Database | MariaDB (SQL) |
+| Programming | Python 3 |
+| Security Frameworks | NIST CSF, MITRE ATT&CK, PASTA, Pyramid of Pain |
+| Utilities | jq, OpenSSL, sha256sum, grep |
+| Security Concepts | Least Privilege, MFA, RBAC, Encryption, Hashing |
+
+<br><br><br>
 
 ## Lab Summaries
 
@@ -101,7 +123,7 @@ Each lab entry includes:
 - **Skills:** Log analysis, professional organizations (ISACA, ISC2, SANS), TCREI prompting
 - **Scenario:** SOC log analysis + career planning + AI-generated security awareness guide
 
----
+<br><br><br>
 
 ## Skills Matrix
 
@@ -119,18 +141,3 @@ Each lab entry includes:
 | Threat Modeling | 11, 12 |
 | Cryptography/Hashing | 10 |
 | Professional Development | 17 |
-
----
-
-## Tools & Technologies Summary
-
-| Category | Specific Tools |
-|----------|----------------|
-| Packet Analysis | Wireshark, tcpdump |
-| IDS/IPS | Suricata |
-| SIEM | Splunk, Wazuh, Google Chronicle |
-| Operating System | Linux (Bash) |
-| Database | MariaDB (SQL) |
-| Programming | Python 3 |
-| Security Frameworks | NIST CSF, MITRE ATT&CK, PASTA |
-| Utilities | jq, OpenSSL, sha256sum, grep |
