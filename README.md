@@ -25,7 +25,7 @@ The primary objectives of this portfolio are to:
 
 ## Learning Domains
 
-### Python
+### [Python](/python)
 
 The Python section focuses on developing strong programming fundamentals together with scientific computing skills. It includes language fundamentals, object-oriented programming, numerical computing, data manipulation, and visualization using widely adopted Python libraries.
 
@@ -41,7 +41,7 @@ Topics include:
 
 <br><br><br>
 
-### Machine Learning
+### [Machine Learning](/machine-learning)
 
 The Machine Learning section documents the implementation of classical machine learning algorithms together with data preprocessing, model evaluation, and practical predictive modeling using real-world datasets.
 
@@ -57,7 +57,7 @@ Topics include:
 
 <br><br><br>
 
-### Cybersecurity
+### [Cybersecurity](/cybersecurity)
 
 The Cybersecurity section documents theoretical concepts and practical exercises covering defensive security, networking, Linux, and security operations through structured coursework and hands-on challenges.
 
