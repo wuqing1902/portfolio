@@ -11,7 +11,7 @@ This summary provides a high-level overview of each project for quick reference.
 
 <br><br><br>
 
-## [Project 1: Applying Filters to SQL Queries for Security Incident Investigation]
+## [Project 1: Applying Filters to SQL Queries for Security Incident Investigation](/cybersecurity/google/projects/01-sql-security-incident-investigation.md)
 
 **Role Context:** SOC Analyst / Security Investigator  
 **Tools:** MariaDB SQL  
@@ -51,7 +51,7 @@ A series of suspicious events were reported. I used SQL to investigate unauthori
 
 <br><br><br>
 
-## Project 2: File Permissions in Linux
+## [Project 2: File Permissions in Linux](/cybersecurity/google/projects/02-linux-file-permissions.md)
 
 **Role Context:** Security Analyst / Linux System Administrator  
 **Tools:** Bash, chmod, ls -la  
@@ -92,7 +92,7 @@ A research team requested a security review of their Linux environment. I review
 
 <br><br><br>
 
-## Project 3: Vulnerability Assessment for a Small Business Database Server
+## [Project 3: Vulnerability Assessment for a Small Business Database Server](/cybersecurity/google/projects/03-vulnerability-assessment.md)
 
 **Role Context:** Vulnerability Analyst / Security Assessor  
 **Framework:** NIST SP 800-30 Rev. 1  
@@ -128,7 +128,7 @@ A small business operates a publicly accessible database server storing sensitiv
 
 <br><br><br>
 
-## Project 4: Documenting a Security Incident - Ransomware Attack Response
+## [Project 4: Documenting a Security Incident - Ransomware Attack Response](/cybersecurity/google/projects/04-ransomware-incident-response.md)
 
 **Role Context:** SOC Analyst / Incident Handler  
 **Tools:** Wireshark, tcpdump, VirusTotal  
@@ -172,7 +172,7 @@ Ransomware Deployment → File Encryption → Ransom Demand
 
 <br><br><br>
 
-## Project 5: Update a File Through a Python Algorithm
+## [Project 5: Update a File Through a Python Algorithm](/cybersecurity/google/projects/05-python-allow-list-automation.md)
 
 **Role Context:** Security Automation Engineer / SOC Analyst  
 **Tools:** Python 3  
