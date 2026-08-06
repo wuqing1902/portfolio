@@ -79,10 +79,10 @@ The primary goals of this section are to:
 python/
 │
 ├── fundamentals/
-│   ├── variables.ipynb
-│   ├── functions.ipynb
-│   ├── oop.ipynb
-│   └── README.md
+│   ├── python-fundamentals.ipynb      ← Complete tutorial notebook
+│   ├── python-summary.md              ← Theory summary
+│   ├── python-labs.ipynb              ← Labs
+│   └── python-projects.ipynb          ← Projects
 │
 ├── numpy/
 │   ├── practice.ipynb
