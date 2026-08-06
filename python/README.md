@@ -8,7 +8,7 @@ Python serves as the primary programming language throughout this portfolio beca
 
 The objective of this section is to build a strong programming foundation while developing clean coding practices, computational thinking, and problem-solving skills.
 
----
+<br><br><br>
 
 ## Learning Objectives
 
@@ -20,11 +20,11 @@ The primary goals of this section are to:
 - Produce reusable and maintainable code.
 - Prepare for machine learning and scientific computing.
 
----
+<br><br><br>
 
 ## Topics Covered
 
-### Python Fundamentals
+### [Python Fundamentals](/fundamentals)
 
 - Python Syntax and Core Concepts
 - Variables and Data Types
@@ -36,7 +36,7 @@ The primary goals of this section are to:
 - Algorithms and Problem Solving
 - Data Structures
 
-### NumPy
+### [NumPy](/numpy)
 
 - Array Fundamentals
 - Array Manipulation
@@ -45,7 +45,7 @@ The primary goals of this section are to:
 - Statistical Computing
 - Data Processing
 
-### Pandas
+### [Pandas](/pandas)
 
 - Data Structures
 - Data Import and Export
@@ -55,7 +55,7 @@ The primary goals of this section are to:
 - Data Analysis
 - Data Integration
 
-### Matplotlib
+### [Matplotlib](/matplotlib)
 
 - Data Visualization Fundamentals
 - Common Chart Types
@@ -64,7 +64,7 @@ The primary goals of this section are to:
 - Multi-Plot Layouts
 - Visualization Best Practices
 
----
+<br><br><br>
 
 ## Directory Structure
 
@@ -75,24 +75,20 @@ python/
 │   ├── python-fundamentals.ipynb
 │   ├── python-labs.ipynb
 │   ├── python-projects.ipynb
-│   ├── python-summary.md
 │   └── README.md
 │
 ├── numpy/
 │   ├── numpy-practice.ipynb
-│   ├── numpy-summary.md
 │   └── README.md
 │
 ├── pandas/
 │   ├── pandas-practice.ipynb
 │   ├── pandas-summary.md 
 │   ├── employees.csv
-│   ├── employees.json
 │   └── README.md
 │
 └── matplotlib/
     ├── matplotlib-practice.ipynb
-    ├── matplotlib-summary.md
     └── README.md
 ```
 
