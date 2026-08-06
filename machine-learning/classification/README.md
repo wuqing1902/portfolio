@@ -284,18 +284,24 @@ without retraining.
 
 ## Key Skills Demonstrated
 
-- Exploratory Data Analysis
-- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
 - Data Preprocessing Pipelines
+- Feature Scaling and Encoding
 - Logistic Regression
 - Random Forest
+- Support Vector Machine (SVM)
+- Ridge Classifier
+- HistGradientBoosting Classifier
 - Explainable AI (SHAP)
+- Feature Importance Analysis
 - Model Evaluation
 - Cross Validation
 - Hyperparameter Tuning
 - Model Persistence
 - End-to-End Machine Learning Workflow
 
+<br><br><br>
 
 <!--
 ## Future Improvements
@@ -311,3 +317,9 @@ Future extensions may include:
 - Model Deployment with Flask or FastAPI
 - Streamlit Web Application
 -->
+
+## Summary
+
+This notebook demonstrates a complete classification machine learning pipeline, beginning with exploratory data analysis and ending with a deployable prediction model.
+
+In addition to implementing Logistic Regression as a baseline model, multiple classification algorithms are compared using cross-validation, the best-performing model is optimized through hyperparameter tuning, and the final model is prepared for deployment through model serialization, explainable AI techniques, and reusable prediction functions.
