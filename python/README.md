@@ -26,46 +26,43 @@ The primary goals of this section are to:
 
 ### Python Fundamentals
 
+- Python Syntax and Core Concepts
 - Variables and Data Types
-- Operators and Expressions
-- Conditional Statements
-- Loops
-- Functions
-- Modules
+- Control Flow
+- Functions and Modules
 - File Handling
 - Exception Handling
 - Object-Oriented Programming
-- Algorithms
+- Algorithms and Problem Solving
 - Data Structures
 
 ### NumPy
 
-- Array Creation
-- Indexing and Slicing
+- Array Fundamentals
+- Array Manipulation
+- Mathematical Operations
 - Broadcasting
-- Universal Functions
-- Statistical Operations
-- Random Number Generation
+- Statistical Computing
+- Data Processing
 
 ### Pandas
 
+- Data Structures
 - Data Import and Export
-- Series and DataFrame
+- Data Exploration
+- Data Manipulation
 - Data Cleaning
-- Data Transformation
-- Filtering
-- Aggregation
-- Joining and Merging
+- Data Analysis
+- Data Integration
 
 ### Matplotlib
 
-- Line Charts
-- Scatter Plots
-- Bar Charts
-- Histograms
-- Pie Charts
-- Figure Customization
-- Subplots
+- Data Visualization Fundamentals
+- Common Chart Types
+- Plot Customization
+- Figure and Axes Management
+- Multi-Plot Layouts
+- Visualization Best Practices
 
 ---
 
@@ -75,47 +72,27 @@ The primary goals of this section are to:
 python/
 │
 ├── fundamentals/
-│   ├── python-fundamentals.ipynb      ← Complete tutorial notebook
-│   ├── python-labs.ipynb              ← Labs
-│   ├── python-projects.ipynb          ← Projects
-|   └── python-summary.md              ← Theory summary
+│   ├── python-fundamentals.ipynb
+│   ├── python-labs.ipynb
+│   ├── python-projects.ipynb
+│   ├── python-summary.md
+│   └── README.md
 │
 ├── numpy/
 │   ├── numpy-practice.ipynb
-│   └── numpy-summary.ipynb
+│   ├── numpy-summary.md
+│   └── README.md
 │
 ├── pandas/
 │   ├── pandas-practice.ipynb
-│   ├── pandas-summary.ipynb
-│   └── dataset (employees.csv, employees.json)
+│   ├── pandas-summary.md 
+│   ├── employees.csv
+│   ├── employees.json
+│   └── README.md
 │
 └── matplotlib/
     ├── matplotlib-practice.ipynb
-    └── matplotlib-summary.ipynb
+    ├── matplotlib-summary.md
+    └── README.md
 ```
 
----
-
-## Current Status
-
-Current focus includes:
-
-- Python Fundamentals
-- Scientific Computing
-- Data Analysis
-- Data Visualization
-
-Future additions may include:
-
-- Advanced Python
-- Design Patterns
-- Testing
-- Python Automation
-- Performance Optimization
-
----
-
-## Related Sections
-
-- Machine Learning
-- Cybersecurity
