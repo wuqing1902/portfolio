@@ -45,20 +45,17 @@ The primary goals of this section are to:
 - Broadcasting
 - Universal Functions
 - Statistical Operations
-- Matrix Operations
 - Random Number Generation
 
 ### Pandas
 
-- Series and DataFrame
 - Data Import and Export
+- Series and DataFrame
 - Data Cleaning
 - Data Transformation
 - Filtering
 - Aggregation
-- GroupBy
 - Joining and Merging
-- Missing Value Handling
 
 ### Matplotlib
 
@@ -69,7 +66,6 @@ The primary goals of this section are to:
 - Pie Charts
 - Figure Customization
 - Subplots
-- Data Visualization Best Practices
 
 ---
 
@@ -85,18 +81,17 @@ python/
 |   └── python-summary.md              ← Theory summary
 │
 ├── numpy/
-│   ├── practice.ipynb
-│   ├── cheatsheet.md
-│   └── README.md
+│   ├── numpy-practice.ipynb
+│   └── numpy-summary.ipynb
 │
 ├── pandas/
-│   ├── data-cleaning.ipynb
-│   ├── dataframe-operations.ipynb
-│   └── README.md
+│   ├── pandas-practice.ipynb
+│   ├── pandas-summary.ipynb
+│   └── dataset (employees.csv, employees.json)
 │
 └── matplotlib/
-    ├── visualization.ipynb
-    └── README.md
+    ├── matplotlib-practice.ipynb
+    └── matplotlib-summary.ipynb
 ```
 
 ---
