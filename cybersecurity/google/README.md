@@ -33,29 +33,43 @@ Throughout this program, I developed practical experience in:
 google-cybersecurity/
 │
 ├── README.md
-├── summary.md
+├── theory.md
 │
 ├── labs/
 │   ├── README.md
 │   ├── 01-internal-it-audit-botium-toys.md
-│   ├── ...
+│   ├── 02-network-layer-communication.md
+│   ├── 03-syn-flood-analysis.md
+│   ├── 04-os-hardening-web-server-attack.md
+│   ├── 05-nist-csf-incident-report.md
+│   ├── 06-network-hardening-risk-assessment.md
+│   ├── 07-sql-security-analysis.md
+│   ├── 08-linux-bash-security.md
+│   ├── 09-asset-security.md
+│   ├── 10-protect-organizational-assets.md
+│   ├── 11-threat-modeling-asset-security.md
+│   ├── 12-usb-attack-vectors.md
+│   ├── 13-incident-investigation-response.md
+│   ├── 14-network-monitoring-analysis.md
+│   ├── 15-ids-siem-tools.md
+│   ├── 16-python-security-automation.md
 │   └── 17-career-readiness.md
 │
-├── projects/
-│   ├── README.md
-│   ├── 01-sql-security-investigation.md
-│   ├── 02-linux-access-control.md
-│   ├── 03-vulnerability-risk-assessment.md
-│   ├── 04-ransomware-incident-response.md
-│   └── 05-python-security-automation.md
-│
-└── scripts/
-    └── update_allow_list.py
+└── projects/
+    ├── README.md
+    ├── 01-sql-security-incident-investigation.md
+    ├── 02-linux-file-permissions.md
+    ├── 03-vulnerability-assessment.md
+    ├── 04-ransomware-incident-response.md
+    └── 05-python-allow-list-automation.md
+
 ```
 
 <br><br><br>
 
 ## Repository Navigation
+### [Theory](/cybersecurity/google/theory.md)
+
 ### [Labs](/cybersecurity/google/labs)
 
 The laboratory exercises focus on building practical cybersecurity skills through guided scenarios, hands-on investigations, and tool usage.
