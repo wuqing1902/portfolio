@@ -293,4 +293,4 @@ Planned areas for further development may include:
 
 ## Disclaimer
 
-All activities documented in this section are intended for educational and portfolio purposes. Security techniques and tools should only be used in authorized and controlled environments or against systems for which appropriate permission has been granted.
+All activities documented in this section are intended for educational and portfolio purposes.
