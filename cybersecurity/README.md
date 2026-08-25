@@ -100,7 +100,7 @@ cybersecurity/
 
 The Cisco section provides foundational and organizational cybersecurity knowledge, covering cyber threats, attack techniques, data protection, network defense, security monitoring, incident response, cybersecurity ethics, and professional development.
 
-### [Google Cybersecurity Professional Certificate](./google-cybersecurity/)
+### [Google Cybersecurity Professional Certificate](./google/)
 
 The Google Cybersecurity section focuses on practical security operations through structured theory, hands-on laboratories, and scenario-based projects. It includes network analysis, Linux administration, SQL investigations, SIEM, risk assessment, incident response, threat modeling, and Python automation.
 
